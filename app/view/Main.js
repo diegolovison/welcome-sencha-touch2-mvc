@@ -4,7 +4,6 @@ Ext.define('myapp.view.Main', {
     
     requires: [
         'Ext.TitleBar',
-        'Ext.Video',
         'myapp.view.Welcome',
         'myapp.view.GetStarted'
     ],

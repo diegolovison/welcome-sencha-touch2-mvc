@@ -1,10 +1,6 @@
 Ext.define('myapp.controller.GetStarted', {
     extend: 'Ext.app.Controller',
 
-    required: [
-        'Ext.MessageBox'
-    ],
-
     config: {
         refs: {
             video: '#getStartedVideo'

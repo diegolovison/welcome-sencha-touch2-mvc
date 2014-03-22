@@ -10,4 +10,4 @@ You can install locally follwing the below steps:
 2- `sencha web start`
 
 
-You can see the demo online accesing: goo.gl/PXvPRZ
+You can see the demo online accesing: http://goo.gl/PXvPRZ
